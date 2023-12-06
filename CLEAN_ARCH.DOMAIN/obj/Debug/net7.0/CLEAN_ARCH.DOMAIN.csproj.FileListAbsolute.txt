@@ -1,0 +1,12 @@
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\bin\Debug\net7.0\CLEAN_ARCH.DOMAIN.deps.json
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\bin\Debug\net7.0\CLEAN_ARCH.DOMAIN.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\bin\Debug\net7.0\CLEAN_ARCH.DOMAIN.pdb
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\CLEAN_ARCH.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\CLEAN_ARCH.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\CLEAN_ARCH.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\CLEAN_ARCH.DOMAIN.AssemblyInfo.cs
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\CLEAN_ARCH.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\CLEAN_ARCH.DOMAIN.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\refint\CLEAN_ARCH.DOMAIN.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\CLEAN_ARCH.DOMAIN.pdb
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.DOMAIN\obj\Debug\net7.0\ref\CLEAN_ARCH.DOMAIN.dll

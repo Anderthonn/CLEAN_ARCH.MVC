@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CLEAN_ARCH.APPLICATION/1.0.0": {
+        "dependencies": {
+          "CLEAN_ARCH.DOMAIN": "1.0.0"
+        },
+        "runtime": {
+          "CLEAN_ARCH.APPLICATION.dll": {}
+        }
+      },
+      "CLEAN_ARCH.DOMAIN/1.0.0": {
+        "runtime": {
+          "CLEAN_ARCH.DOMAIN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLEAN_ARCH.APPLICATION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLEAN_ARCH.DOMAIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

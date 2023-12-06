@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CLEAN_ARCH.WEBUI.props" />
+</Project>

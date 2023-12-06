@@ -1,10 +1,5 @@
 ﻿using CLEAN_ARCH.DOMAIN.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CLEAN_ARCH.INFRA.DATA.Context
 {

@@ -1,0 +1,17 @@
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\bin\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.deps.json
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\bin\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.runtimeconfig.json
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\bin\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\bin\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.pdb
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\bin\Debug\net7.0\CLEAN_ARCH.DOMAIN.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\bin\Debug\net7.0\CLEAN_ARCH.DOMAIN.pdb
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.csproj.AssemblyReference.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.AssemblyInfoInputs.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.AssemblyInfo.cs
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.csproj.CoreCompileInputs.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.csproj.CopyComplete
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\refint\CLEAN_ARCH.INFRA.DATA.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.pdb
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\CLEAN_ARCH.INFRA.DATA.genruntimeconfig.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.INFRA.DATA\obj\Debug\net7.0\ref\CLEAN_ARCH.INFRA.DATA.dll

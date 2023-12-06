@@ -1,0 +1,15 @@
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\bin\Debug\net7.0\CLEAN_ARCH.APPLICATION.deps.json
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\bin\Debug\net7.0\CLEAN_ARCH.APPLICATION.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\bin\Debug\net7.0\CLEAN_ARCH.APPLICATION.pdb
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\bin\Debug\net7.0\CLEAN_ARCH.DOMAIN.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\bin\Debug\net7.0\CLEAN_ARCH.DOMAIN.pdb
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\CLEAN_ARCH.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\CLEAN_ARCH.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\CLEAN_ARCH.APPLICATION.AssemblyInfoInputs.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\CLEAN_ARCH.APPLICATION.AssemblyInfo.cs
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\CLEAN_ARCH.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\CLEAN_ARCH.APPLICATION.csproj.CopyComplete
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\CLEAN_ARCH.APPLICATION.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\refint\CLEAN_ARCH.APPLICATION.dll
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\CLEAN_ARCH.APPLICATION.pdb
+C:\Users\amelobat\OneDrive - NTT DATA EMEAL\Documentos\ALB\Projetos - (Pessoais)\CLEAN_ARCH\CLEAN_ARCH.APPLICATION\obj\Debug\net7.0\ref\CLEAN_ARCH.APPLICATION.dll
